@@ -2,7 +2,7 @@
 <table>
 <tr>
 <td>
-ChatBotJava 2.0 is a chatroom which allows multiple users (Clients) to chat with each other.
+ChatRoomJava 2.0 is a chatroom which allows multiple users (Clients) to chat with each other.
 </td>
 </tr>
 </table>
